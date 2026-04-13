@@ -1,5 +1,4 @@
 package com.mycompany.loginsystem;
-
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
